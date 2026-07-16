@@ -697,13 +697,11 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 700; color: var(
 .legal-links a { transition: color 0.2s; }
 .legal-links a:hover { color: var(--gold-400); }
 .legal-links .sep { opacity: 0.4; }
-.photo-credits {
+.powered-by {
   margin-top: 8px;
   font-size: 0.72rem;
   color: rgba(251,247,238,0.5);
 }
-.photo-credits a { text-decoration: underline; }
-.photo-credits a:hover { color: var(--gold-400); }
 
 /* ---------- Floating buttons ---------- */
 .whatsapp-float {
